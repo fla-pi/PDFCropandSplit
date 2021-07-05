@@ -11,4 +11,19 @@ non compariranno le sezioni cancellate, ma per quanto la redazione
 del PDF è efficace, si consiglia comunque di non usarla per nascondere 
 informazioni sensibili.
 
+## Istruzioni per l'installazione
+Per utilizzare lo **script Python**, installare le dipendenze:
+```
+PySimpleGUI
+PyPDF2
+Pillow
+```
+può essere fatto installandole direttamente da requirements.txt:
+
+```
+python pip install -r requirements.txt
+```
 ## Utilizzo
+
+![alt text](https://github.com/fla-pi/PDFCropandSplit/blob/main/demo_crop.gif)
+![alt text](https://github.com/fla-pi/PDFCropandSplit/blob/main/demo_split.gif)
