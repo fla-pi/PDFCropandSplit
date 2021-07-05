@@ -1,4 +1,4 @@
-# PDFCropandSplit
+# PDFCrop and Split
 Programma in Python che permette di ritagliare, dividere ed estrarre il testo di tutte le pagine di un file PDF.
 
 Il testo è estraibile solo da PDF ricercabili, non svolge alcun compito da OCR. 
@@ -26,4 +26,6 @@ python pip install -r requirements.txt
 ## Utilizzo
 
 ![alt text](https://github.com/fla-pi/PDFCropandSplit/blob/main/demo_crop.gif)
+
+
 ![alt text](https://github.com/fla-pi/PDFCropandSplit/blob/main/demo_split.gif)
