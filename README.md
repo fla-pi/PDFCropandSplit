@@ -6,7 +6,7 @@ Può essere però utile per preparare un file immagine
 all'OCR (se si vogliono rimouvere pié di pagina o intestazioni). 
 
 Applica redaction sulle sezioni tagliate fuori, quindi dal file 
-può essere estratto il testo in un secondo momento e 
+può essere estratto il testo in un secondo momento (con altri programmi) e 
 non compariranno le sezioni cancellate, ma per quanto la redazione 
 del PDF è efficace, si consiglia comunque di non usarla per nascondere 
 informazioni sensibili.
