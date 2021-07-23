@@ -15,7 +15,7 @@ informazioni sensibili.
 Per utilizzare lo **script Python**, installare le dipendenze:
 ```
 PySimpleGUI
-PyPDF2
+PyMuPDF
 Pillow
 ```
 può essere fatto installandole direttamente da requirements.txt:
@@ -41,4 +41,4 @@ Selezionando **Dividi PDF** si aprirà una finestra in cui sarà possibile:
 ![alt text](https://github.com/fla-pi/PDFCropandSplit/blob/main/demo_split.gif)
 
 
-\*nel caso in cui il PDF non contenga testo (ad es. un PDF immagine) il file .txt sarà vuoto
+\*nel caso in cui il PDF non contenga testo (ad es. un PDF immagine) il file .txt sarà vuoto (la funzione è ancora da migliorare, per ora si consiglia di estrarre il testo con un altro programma)
