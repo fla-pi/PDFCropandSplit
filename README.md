@@ -27,7 +27,7 @@ python pip install -r requirements.txt
 Aprire il file PDF e in caso non si voglia aprire la prima pagina, specificare il numero di pagina da visualizzare.
 
 Selezionando **Taglia PDF** si aprirà una finestra in cui sarà possibile:
-- cambiare pagina (tasti "<<" e ">>");
+- cambiare pagina (tasti "<" e ">");
 - decidere se creare automaticamente un file .txt con il testo estratto dalle aree ritagliate*;
 - tracciare un rettangolo sulla pagina per decidere l'area da conservare (il ritaglio verrà applicato a tutte le pagine).
 
