@@ -14,7 +14,7 @@ sg.theme('DarkBlue3')
 
 layout = [  [sg.Text('')],
             [sg.Text('File (.pdf)'), sg.Input(size=(80,1),key=1)],
-            [sg.Text('Visualizza pagina: '), sg.Input(size=(5,1), key=8), sg.Text('Se non specifichi nulla sarà visualizzata la prima pagina')],
+            [sg.Text('Visualizza pagina: '), sg.Input(size=(5,1), key=8), sg.Text('Se non specifichi nulla sarà visualizzata la prima pagina e potrai cambiare manualmente le pagine')],
             [sg.Text('''Salva come: '''), sg.Input(size=(80,1),key=9)],
             [sg.Text('''                      Se non specifichi un nome, il file si chiamerà <nomefile>_cropped.pdf''')],
             [sg.Button('Apri file...'), sg.Button("Ritaglia PDF"), sg.Button('Dividi PDF'), sg.Button("Esci"), sg.Text('                                                                            https://github.com/fla-pi')]]
