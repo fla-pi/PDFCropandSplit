@@ -23,6 +23,11 @@ può essere fatto installandole direttamente da requirements.txt:
 ```
 python pip install -r requirements.txt
 ```
+Per l'utilizzo su macOS potrebbe essere necessario installare differentemente PyMuPDF:
+```
+brew install mupdf swig freetype
+pip install https://github.com/pymupdf/PyMuPDF/archive/master.tar.gz
+```
 ## Utilizzo
 Aprire il file PDF e in caso non si voglia aprire la prima pagina, specificare il numero di pagina da visualizzare.
 
